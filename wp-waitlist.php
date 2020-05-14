@@ -1,11 +1,9 @@
 <?php
 /**
  * Plugin Name: Waitlists for WordPress
- * Plugin URI: https://github.com/meitar/wp-waitlist
+ * Plugin URI: https://github.com/fabacab/wp-waitlist
  * Description: Add user lists of almost any type, for any purpose, to any post. E.g., a "sign up list" to an event or class.
  * Version: 0.1
- * Author: maymay
- * Author URI: http://maymay.net/
  * Text Domain: wp-waitlist
  * Domain Path: /languages
  */
